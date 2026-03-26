@@ -1,6 +1,6 @@
 extends CharacterBody2D
 
-const SPEED = 10
+const SPEED = 100
 
 var dir = Vector2.ZERO
 
